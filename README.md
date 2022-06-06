@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on https://becase.xyz
 
-- 📫 How to reach me **becase3@gmail.com**
+- 📫 How to reach me **becase369@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 
