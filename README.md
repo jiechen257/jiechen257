@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm kuizuo</h1>
+<h1>Hi 👋, I'm JIE</h1>
 
 - 👨‍💻 A code enthusiast from China
 
