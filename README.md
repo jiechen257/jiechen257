@@ -1,18 +1,19 @@
 <h1>Hi 👋, I'm JIE</h1>
 
-- 👨‍💻 A code enthusiast from China
+- 👨‍💻 A code enthusiast from Changsha, China
 
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
 - 📝 I regularly write articles on https://becase.xyz
 
-- 📫 How to reach me **1487503910@qq.com**
+- 📫 How to reach me **becase369@gmail.com**
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+
