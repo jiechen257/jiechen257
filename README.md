@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm jiechen</h1>
+<h1>Hi 👋, I'm Jiechen</h1>
 
 - 👨‍💻 A front-end enthusiast from Changsha, China
 
