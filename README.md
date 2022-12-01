@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm JIE</h1>
+<h1>Hi 👋, I'm jiechen</h1>
 
-- 👨‍💻 A code enthusiast from Changsha, China
+- 👨‍💻 A front-end enthusiast from Changsha, China
 
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
-- 📝 I regularly write articles on https://becase.xyz
+- 📝 I regularly write articles on _**https://becase.xyz**_
 
 - 📫 How to reach me **becase369@gmail.com**
 
@@ -16,4 +16,3 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-
