@@ -2,7 +2,7 @@
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 👨‍💻 A front-end enthusiast from Changsha
+- 👨‍💻 A front-end enthusiast from China
 
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
