@@ -6,7 +6,7 @@
 
 - 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
-- 📝 I regularly write articles on _**https://becase.xyz**_
+- 📝 I regularly write articles on _**http://becase.top**_
 
 - 📫 How to reach me **becase369@gmail.com**
 
