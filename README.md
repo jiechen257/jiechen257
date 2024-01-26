@@ -8,4 +8,4 @@
 
 - 📫 Contact me by **becase369@gmail.com**
 
-For more content, please view [关于我](https://becase.top/about)
+For more content, please view [About me](https://becase.top/about/about_en)
