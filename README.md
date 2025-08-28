@@ -4,7 +4,7 @@
 
 - 🌱 Coding for fun & Keep learning
 
-- 📝 Write articles on _**[blog](https://notion.becase.top)**_
+- 📝 Write articles on _**[blog](https://blog.becase.top)**_
 
 - 📫 Contact me by **becase369@gmail.com**
 
